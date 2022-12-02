@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/DesistDaydream/go-datastorage/pkg/database/gorm/models"
+	"github.com/DesistDaydream/go-datastorage/pkg/database/gorm/core/models"
 	"github.com/sirupsen/logrus"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
